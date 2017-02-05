@@ -86,7 +86,7 @@ puts result
 if result == 100
   puts "PASS!"
 else
-  puts "F"
+  puts "F" 
 end 
 
 result = tv.increment_volume
